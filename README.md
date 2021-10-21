@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://github.com/DC1024/DC1024/blob/main/image/cat.jpg" alt="Cat"/> 
+<img align="right" height="380" src="https://github.com/DC1024/DC1024/blob/main/image/cat.jpg" alt="Cat"/> 
 
 ### 我是...
 - Love Cat 🐈
