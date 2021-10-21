@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/DC1024/DC1024/blob/main/image/cat.jpg" alt="Cat"/>
+
 # 我是...
 - Love Cat 🐈
 - 大三在读学生
