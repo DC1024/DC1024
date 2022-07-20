@@ -1,14 +1,13 @@
 <img align="right" height="380" src="https://github.com/DC1024/DC1024/blob/main/image/cat.jpg" alt="Cat"/> 
 
 ### 我是...
+- 学生
+- 视频剪辑
 - Love Cat 🐈
-- 大三在读学生
-- 会一点视频剪辑
 - 正在进行云实习
 - 爱好计算机、网络、树莓派
 
 ### 你可以在这些地方找到我 👇
-- [Blog](http://blog.dcchen.top/)
 - [知乎](https://www.zhihu.com/people/1565710276)
-- [少数派](https://sspai.com/u/dcchen)
+- [Youtube](https://www.youtube.com/channel/UCaUbMzh5S0O7fWi-xV6s_JA)
 - [哔哩哔哩](https://space.bilibili.com/36174251)
