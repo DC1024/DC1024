@@ -1,9 +1,9 @@
 <img align="right" height="380" src="https://github.com/DC1024/DC1024/blob/main/image/cat.jpg" alt="Cat"/> 
 
 ### 我是...
-- 学生
+- 社畜
 - 视频剪辑
-- Love Cat 🐈
+- 爱猫人士 🐈
 - 爱好计算机、网络、服务器等
 
 ### 你可以在这些地方找到我 👇
