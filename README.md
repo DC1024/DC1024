@@ -7,6 +7,7 @@
 - 爱好计算机、网络、服务器等
 
 ### 你可以在这些地方找到我 👇
+- [个站](https://dc1024.github.io/)
 - [知乎](https://www.zhihu.com/people/1565710276)
 - [Youtube](https://www.youtube.com/channel/UCaUbMzh5S0O7fWi-xV6s_JA)
 - [哔哩哔哩](https://space.bilibili.com/36174251)
